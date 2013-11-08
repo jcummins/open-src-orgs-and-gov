@@ -1,4 +1,4 @@
-City Camp MN 2013, Session idea notes: Open source organizations and government entities
+City Camp MN 2013, Session idea: Open source organizations and government entities
 =======================
 
 ## Full session idea text:
