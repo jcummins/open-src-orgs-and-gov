@@ -84,12 +84,14 @@ A: Because I want to be proud of myself and the groups I am in, even if my group
  * Being critical of the status quo is not unpatriotic or apathetic if used to contribute, engage others, and assuming the criticisms are not descriminatory.
  * If you fork, you must be prepared for society to reject your pull request. If this happens, you've not made your case well enough or you have some code that is fundamentally at odds with some other code or you're just too bleeding edge for society. How do we start to educate people that this isn't a failure of their idea, but just an indication that it needs to be improved further. 
 
-Economic modeling is imperfect:
+**Economic modeling is imperfect:**
+
 * Why? Because models are created by humans and only encompass what we already know to be true or not true.
 * So, is the best we can hope for to create a society that passes certain existing tests?
 * When to refactor? How do we refactor fairly?
 
-Demand:
+**Demand:**
+
 * Can we model human desires (might be tough when the sum is infinite)?
 * Can we model human needs (finite, but hard to estimate)?
 * What does government do? Tags a given demand entity as a want vs a need.
@@ -104,6 +106,7 @@ Can we model a desire... We can try, but generally wants are infinite.
 
 Can we model supply... We can try.
 
+```
  desire = {
  	"name" : "money",
  	"quantity" : infinity,
@@ -112,6 +115,7 @@ Can we model supply... We can try.
  		"transferable"
  	]
  }
+ ```
 
  Since the sum of our wants in infinite, each want is infinite as well. This is a problem for testing. We're either going to have to manually balance resources or let these float. Supply is easier to map, but still hard when we introduce that everything is in theory transferable, but in practice is not. Various accounting methods attempt to address this by estimating depreciation, but these methods are imperfect and are more useful for addressing the value of assets at a given point in time and not estimating how a given change in the law will impact the future rate of depreciation of assets. The idea of economics as a science is not precise and as such, any tests assuming a known finite supply will be at the mercy of that margin of error.
 
@@ -163,7 +167,8 @@ A pull request should not be rejected unless it is descriminatory or fundamental
 
  Ok Mr. Idealist, come on back to Earth.
 
-Citizen contribution to government:
+**Citizen contribution to government:**
+
  * Volunteerism (service)
- * Donation ()
+ * Donation
  * Idea contribution
