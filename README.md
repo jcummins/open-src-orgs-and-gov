@@ -172,3 +172,9 @@ A pull request should not be rejected unless it is descriminatory or fundamental
  * Volunteerism (service)
  * Donation
  * Idea contribution
+ 
+ ## Hackathon Results ##
+ 
+ Topic: Datapedia - Building a dataset aggregator
+ Results and Notes: 
+ https://docs.google.com/document/d/1hgC6flx2JEKUpZgbpCcHd1LiBUSz9YQ1ATClQt3G1-8/edit?usp=sharing
